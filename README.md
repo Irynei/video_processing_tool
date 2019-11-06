@@ -1,4 +1,4 @@
-#### Prerequisitives:
+#### Prerequisites:
 
 
 Install all the requirements using python3.6+
