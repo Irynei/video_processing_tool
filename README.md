@@ -39,4 +39,3 @@ Most common classes: {'bighorn': 51, 'geyser': 31, 'Arctic_fox': 29}
 #### Possible improvements:
 - add gpu support if available
 - use normal logging instead of prints
-- possibly process frames in parallel
