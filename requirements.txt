@@ -2,5 +2,5 @@ opencv-python-headless==4.1.1.26
 torch==1.3.0
 torchvision==0.4.1.post2
 tqdm==4.37.0
-numpy==1.17.3
+numpy==1.22.0
 Pillow==8.3.2
